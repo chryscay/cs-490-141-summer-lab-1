@@ -11,3 +11,7 @@ Chrystian Cayetano
 ## Team Members
 
 - Chrystian Cayetano
+- Santiago Hoyos
+- Christopher Cuzco
+- Talha Choudhry
+- Hammad Imtiaz
