@@ -1,5 +1,19 @@
-# Member Profile
+# Member Information
 
-* **Name:** Hammad Imtiaz
-* **Role:** Developer
-* **GitHub Username:** hammad-imtiaz
+## My Name
+
+Hammad Imtiaz
+
+## Favorite Technology
+
+C
+
+## Non-technical Hobby
+
+
+- Gaming
+
+
+## Favorite Cartoon
+
+Dragon Ball Z
