@@ -11,3 +11,4 @@ Chrystian Cayetano
 ## Team Members
 
 - Chrystian Cayetano
+- Christopher Cuzco
