@@ -2,16 +2,16 @@
 
 ## My Name
 
-Bill McCann
+Chrystian Cayetano
 
 ## Favorite Technology
 
-VS Code
+SQL
 
 ## Non-technical Hobby
 
-- Skiing
-- Running, Swimming, Biking
+- Climbing
+- Reading
 - Gaming
 
 ## Favorite Cartoon

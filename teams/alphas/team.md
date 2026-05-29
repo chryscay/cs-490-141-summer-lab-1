@@ -2,15 +2,12 @@
 
 ## Team Name
 
-Merge Conflict Survivors
+Claude Scholars
 
 ## Project Manager
 
-Jane Doe
+Chrystian Cayetano
 
 ## Team Members
 
-- Jane Doe
-- John Smith
-- Alice Johnson
-- Bob Williams
+- Chrystian Cayetano
